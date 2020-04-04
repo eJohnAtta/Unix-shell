@@ -1,1 +1,1 @@
-# Unix-shell
+C programming project to mimic unix/linux operating system terminal. My shell is capable of running builtin functions and system executable function with multiple process forking. The code is depending on the essential understanding of how OS threading with high text formatting skills.
